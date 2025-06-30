@@ -91,4 +91,9 @@ body{
   width: 8rem;
   border: none !important;
 }
+/*Map*/
+#map{
+  height: 400px;
+  width: 80vh;
+}
 
